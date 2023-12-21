@@ -10,9 +10,9 @@ Este script em Python utiliza o módulo `win32com` para interagir com o aplicati
 ---
 # Email sender using Python and Outlook
 
-This Python script uses the win32com module to interact with the Outlook application and send an email.
+This Python script uses the 'win32com' module to interact with the Outlook application and send an email.
 
 ## How to use
-1. Make sure to have the pywin32 module installed.
-2. Replace the email address in the email.To field with the desired recipient.
+1. Make sure to have the 'pywin32' module installed.
+2. Replace the email address in the 'email.To' field with the desired recipient.
 3. Run the script and check the console output to confirm that the email was sent.
